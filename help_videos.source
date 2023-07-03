@@ -13,6 +13,7 @@ EOF
 
 cat > /tmp/help_videos/tabs/Apps <<EOF
 https://www.youtube.com/watch?v=ZMGpAW0z_Bo&list=PLzZCajspPU_UjFn0uy-J9URz0LP4zhxRK https://i.ytimg.com/vi/ZMGpAW0z_Bo/hq720.jpg TiddlyWiki
+https://www.youtube.com/watch?v=CfMEdoZimHA&pp=ygUIaG9tZWJhbms%3D https://i.ytimg.com/vi/CfMEdoZimHA/hqdefault.jpg Homebank finance
 EOF
 
 cat > /tmp/help_videos/tab_order <<EOF
