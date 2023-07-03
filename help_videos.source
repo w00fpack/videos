@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# source file
+cat > /tmp/help_videos/tabs/Overview <<EOF
+https://www.youtube.com/watch?v=QvniNI9YPZE https://i.ytimg.com/vi/QvniNI9YPZE/hq720.jpg Puppy Linux vs Windows 11 in 2021
+https://www.youtube.com/watch?v=2f4BJQIr9qc https://i.ytimg.com/vi/2f4BJQIr9qc/hq720.jpg Best Lightweight Linux Distros for Your Low End PC/ Laptops
+https://github.com/w00fpack/videos/raw/main/Prepare%20For%20Takeoff.mp4 https://github.com/w00fpack/videos/raw/main/Prepare%20For%20Takeoff.jpg test
+EOF
+
+cat > /tmp/help_videos/tabs/Installation <<EOF
+https://www.youtube.com/watch?v=GunHHiFubAQ https://i.ytimg.com/vi/GunHHiFubAQ/hq720.jpg Puppy Linux 9.5 Installation 2020
+EOF
+
+cat > /tmp/help_videos/tabs/Apps <<EOF
+https://www.youtube.com/watch?v=ZMGpAW0z_Bo&list=PLzZCajspPU_UjFn0uy-J9URz0LP4zhxRK https://i.ytimg.com/vi/ZMGpAW0z_Bo/hq720.jpg TiddlyWiki
+EOF
+
+cat > /tmp/help_videos/tab_order <<EOF
+Overview
+Installation
+Apps
+EOF
