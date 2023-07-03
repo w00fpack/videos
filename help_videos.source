@@ -2,7 +2,7 @@
 
 # source file
 cat > /tmp/help_videos/tabs/Overview <<EOF
-https://www.youtube.com/watch?v=QvniNI9YPZE https://i.ytimg.com/vi/QvniNI9YPZE/hq720.jpg Puppy Linux vs Windows 11 in 2021
+https://www.youtube.com/watch?v=hKxuy96l8BE https://i.ytimg.com/vi/hKxuy96l8BE/hq720.jpg Puppy Linux 22.12.Simple, Fast and Lightweight
 https://www.youtube.com/watch?v=2f4BJQIr9qc https://i.ytimg.com/vi/2f4BJQIr9qc/hq720.jpg Best Lightweight Linux Distros for Your Low End PC/ Laptops
 https://github.com/w00fpack/videos/raw/main/Prepare%20For%20Takeoff.mp4 https://github.com/w00fpack/videos/raw/main/Prepare%20For%20Takeoff.jpg test
 EOF
